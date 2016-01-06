@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game.Form1" Collapsed="true">
+    <Position X="49.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAAQAAACAAAACAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.AppearanceOfTank" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>Geme\AppearanceOfTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.ArmoredPersonnelCarrierTankEnemy" Collapsed="true">
+    <Position X="23" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\ArmoredPersonnelCarrierTankEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.BattleCity" Collapsed="true">
+    <Position X="45.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAYAAAAAAAAAAgBAAAAAAAgAAAMgAAAAgAAAAAAAAIA=</HashCode>
+      <FileName>Geme\BattleCity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Bronevyk" Collapsed="true">
+    <Position X="25.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAIBAAAQAABIACAAACAACIARAABEAAAAAAAA=</HashCode>
+      <FileName>Geme\Bronevyk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.GameOver" Collapsed="true">
+    <Position X="51" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Geme\GameOver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Level" Collapsed="true">
+    <Position X="45.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAwICAIAAQqgQAACQAAABAABAIgggAgAQMAABEAAA=</HashCode>
+      <FileName>Geme\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Menu" Collapsed="true">
+    <Position X="47.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAACAAAAgAhEAIAIAACAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Program" Collapsed="true">
+    <Position X="49.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Geme\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.RapidFireTanky" Collapsed="true">
+    <Position X="27.5" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\RapidFireTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.ScreenGame" Collapsed="true">
+    <Position X="45.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Geme\ScreenGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.SoundGame" Collapsed="true">
+    <Position X="49.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAgAgAAAACgADAAoAAQAAAAAAggAAAIMAAAABAAIA=</HashCode>
+      <FileName>Geme\SoundGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.SoundTankPlayer" Collapsed="true">
+    <Position X="32" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\SoundTankPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.UpdateTankEnemy" Collapsed="true">
+    <Position X="26.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Geme\UpdateTankEnemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.CollisionsObjGame" Collapsed="true">
+    <Position X="26.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\CollisionsObjGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Eagle" Collapsed="true">
+    <Position X="41" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Geme\Eagle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.ImgGameOver" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAIAAAACAQAAAAAAAAAA=</HashCode>
+      <FileName>Geme\ImgGameOver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.BrickWall" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Immovable Obj\BrickWall.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.ConcreteWall" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Immovable Obj\ConcreteWall.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.Forest" Collapsed="true">
+    <Position X="34.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Immovable Obj\Forest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Ice" Collapsed="true">
+    <Position X="36.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Immovable Obj\Ice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.InformationAboutLevel" Collapsed="true">
+    <Position X="43.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAgAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\InformationAboutLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.InformationAboutLivesPlayer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\InformationAboutLivesPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.InformationDownloadLevel" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAhAAQAAAAAgAAIAAAACAQAAAAAAAAAA=</HashCode>
+      <FileName>Geme\InformationDownloadLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.InformationGame" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\InformationGame.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.MoweObjGame" Collapsed="true">
+    <Position X="26.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Geme\MoweObjGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.ObjGame" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\ObjGame.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.Points" Collapsed="true">
+    <Position X="38.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Points.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.CollisionShell" Collapsed="true">
+    <Position X="20.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Geme\ShellObj\CollisionShell.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.DetonationShell" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAIAAgAAACAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\ShellObj\DetonationShell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.DetonationShellBig" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Geme\ShellObj\DetonationShellBig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.ShellObj" Collapsed="true">
+    <Position X="20.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAACAAAAAgAAACAAAAAAAAAAAAAAAAAAAIEAAAA=</HashCode>
+      <FileName>Geme\ShellObj\ShellObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Water" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\ShellObj\Water.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.AnimationTank" Collapsed="true">
+    <Position X="27.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAhAAAAAAAAgAAAAAAAAAAAAAAAAAAACEAAAAA=</HashCode>
+      <FileName>Geme\Tanks\AnimationTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.CollisionTank" Collapsed="true">
+    <Position X="27.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAE=</HashCode>
+      <FileName>Geme\Tanks\CollisionTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.DrivingTankEnemy" Collapsed="true">
+    <Position X="26.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAUAAAAAAAA=</HashCode>
+      <FileName>Geme\Tanks\DrivingTankEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.DrivingTankPlayer" Collapsed="true">
+    <Position X="32" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Tanks\DrivingTankPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.EnemyTanks" Collapsed="true">
+    <Position X="47.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAACABHAAAAAAAAAAAAAAAAQAAABAAAABAAA=</HashCode>
+      <FileName>Geme\Tanks\EnemyTanks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.FireTank" Collapsed="true">
+    <Position X="27.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAgAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Tanks\FireTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.InformationTank" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Tanks\InformationTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.MoveTank" Collapsed="true">
+    <Position X="27.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAIAAAAAAAAAAEAAAQAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Geme\Tanks\MoveTank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.PlainTankEnemy" Collapsed="true">
+    <Position X="29.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Tanks\PlainTankEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.SmallTankPlayer" Collapsed="true">
+    <Position X="32" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\Tanks\SmallTankPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.TankEnemy" Collapsed="true">
+    <Position X="26.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Geme\Tanks\TankEnemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.TankPlayer" Collapsed="true">
+    <Position X="32" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Geme\Tanks\TankPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.Properties.Resources" Collapsed="true">
+    <Position X="51" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAIAoAAAAAiIEgAAQYABEQAAAQEICAAAAAoQIgAYS4I=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Properties.Settings" Collapsed="true">
+    <Position X="47.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Game.Keyboard" Collapsed="true">
+    <Position X="45.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACIAAIAAAAAAAAAAAAAAAAAEAAAACACAAAAAAAI=</HashCode>
+      <FileName>Geme\Keyboard.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Game.SettingsGame" Collapsed="true">
+    <Position X="47.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAGAAIABgICAAAAAAEBgAQCAYCEAgABAEAAAIBAAAA=</HashCode>
+      <FileName>Geme\SettingsGame.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Game.IAddTankToDictionary" Collapsed="true">
+    <Position X="45.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Geme\IAddTankToDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game.ICollision" Collapsed="true">
+    <Position X="47.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\ICollision.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game.IDraw" Collapsed="true">
+    <Position X="49.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\IDraw.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game.IResponse" Collapsed="true">
+    <Position X="51" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\IResponse.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Game.KeyObjGame" Collapsed="true">
+    <Position X="47.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAIAAAAAAAAAAAAAEAAAgAAQAAAAAAQAAQAA=</HashCode>
+      <FileName>Geme\KeyObjGame.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game.StateMenu" Collapsed="true">
+    <Position X="49.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Geme\StateMenu.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game.StateOfGame" Collapsed="true">
+    <Position X="51" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAgIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geme\StateOfGame.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game.StateOfLevel" Collapsed="true">
+    <Position X="45.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAEAAAAAAAAgAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Geme\StateOfLevel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Game.Direction" Collapsed="true">
+    <Position X="45.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Geme\Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
